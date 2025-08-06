@@ -16,7 +16,7 @@ For migrating we will run rclone to sync the AWS s3 bucket with GCP bucket. This
 
 ## Automation 
 
-Automation will be handled by the daily Jenkins jobs. We will be using the same process that we are using to update AWS, but we will be pushing to GCP. This will allow us to have a consistent process that will not cause any interuptions why we transition.
+Automation will be handled by the daily Jenkins jobs. We will be using the same process that we are using to update AWS, but we will be pushing to GCP. This will allow us to have a consistent process that will not cause any interruptions while we transition.
 
 ## Cleanup 
 
